@@ -1,1 +1,2 @@
 Tämä on ensimmäinen tekstitestini.
+Tämä rivi on lisätty testiksi GitHub Desktopin katselua varten.
